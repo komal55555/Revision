@@ -1,0 +1,150 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,500&family=DM+Serif+Display&family=Jost:wght@500&family=Lato:wght@700&family=Lexend&family=Nunito+Sans:opsz@6..12&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    box-sizing: border-box ;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.headcardlogo{
+    height: 140px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    display: block;
+    margin:10px auto;
+}
+ .intro{
+    text-align: center;
+    width: 400px;
+    margin:100px auto;
+    padding:16px;
+    font-size:14px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    box-sizing: border-box ;
+
+}
+
+.paragrapgh{
+    font-size: 15px;
+}
+ .navintro{
+    border-top: 2px solid lightgray;
+    padding:10px;
+    text-align: center;
+ }
+
+ .nav{
+    text-decoration: none;
+    color: rgba(7, 19, 126, 0.979);
+    font-size:18px;
+    font-weight: bold;
+ }
+
+ .card1{
+    width: 400px;
+    background-color: rgb(255,255,255);
+    text-align: center;
+    margin: 100px auto;
+    padding:10px;
+    border:1px solid lightgray;
+    border-radius: 15px;
+ }
+
+ .card1emoji{
+    font-size:50px;
+    margin:20px;
+ }
+ .card1heading{
+    font-size: 30px;
+    font-weight: 20px;
+    
+ }
+ .card1description{
+    font-size: 15px;
+    margin-bottom:30px;
+ }
+.card1btn{
+    width:300px;
+    background-color: rgb(239,239,239);
+    border:none;
+    text-align: left;
+    padding:10px;
+    font-size: 15px ;
+    margin:5px;
+    box-sizing: border-box;
+    border-radius: 10px ;
+}
+
+.card1links{
+    border-top: 2px solid lightgray;
+    margin:5px;
+    padding:10px;
+}
+
+.card2{
+width: 400px;
+background-color: (255,255,255);
+border: none;
+text-align: center;
+margin: 100px auto;
+border: 1px solid lightgray;
+border-radius:10px;
+}
+
+.card1emoji{
+    font-size:40px;
+    margin:10px;
+ }
+
+.card2btn{
+        
+        width:340px;
+        background-color: rgb(239,239,239);
+        border:none;
+        text-align: left;
+        padding:10px;
+        font-size: 15px ;
+        margin:5px;
+        box-sizing: border-box;
+        border-radius: 5px ;
+    }
+
+ .Elmen{
+    font-size: 14px;
+    color: rgb(161,161,161);
+ }   
+    
+
+.Icon{
+    height: 100px;
+}
+
+.otp{
+    width: 340px;
+    margin-bottom:10px;
+    padding:5px;
+    border: 2px solid rgb(140, 83, 255);
+    border-radius:10px;
+    font-size: 15px;
+    box-sizing:border-box;
+
+}
+.validate{
+    width: 340px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 2px solid rgb(255,255,255);
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: rgb(140, 83, 255);
+    color:white;
+    font-weight: 600;
+}
+
+.mail{
+    
+        font-weight: 600;
+
+}
